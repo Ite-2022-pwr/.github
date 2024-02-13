@@ -1,6 +1,6 @@
 # ITE 2022 organizacja na githubie
 
-Rozwiązania zadań laboratoryjnych z wybranych przedmiotów, na których się programuje
+Rozwiązania zadań laboratoryjnych z wybranych przedmiotów, które mieliśmy na studiach
 
 ## naming scheme
 
@@ -16,3 +16,9 @@ Można też dawać opis repozytorium
 co do formatowania, to w sumie można ujednolicić, to żeby to zrobić dodajcie se plugin:
 https://plugins.jetbrains.com/plugin/8527-google-java-format
 żeby było tak samo
+
+## Timeline
+
+### Semestr 3
+
+- [Języki programowania (Java)](https://github.com/Ite-2022-pwr/Jezyki-Programowania)
