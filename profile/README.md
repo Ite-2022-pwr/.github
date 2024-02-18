@@ -19,6 +19,10 @@ https://plugins.jetbrains.com/plugin/8527-google-java-format
 
 ## Timeline
 
+### Semestr 2
+
+- [Programowanie obiektowe - laboratoria](https://github.com/Ite-2022-pwr/Programowanie-obiektowe)
+
 ### Semestr 3
 
-- [Języki programowania (Java)](https://github.com/Ite-2022-pwr/Jezyki-Programowania)
+- [Języki programowania (Java) - laboratoria](https://github.com/Ite-2022-pwr/Jezyki-Programowania)
