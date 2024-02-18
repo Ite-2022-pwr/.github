@@ -26,3 +26,4 @@ https://plugins.jetbrains.com/plugin/8527-google-java-format
 ### Semestr 3
 
 - [Języki programowania (Java) - laboratoria](https://github.com/Ite-2022-pwr/Jezyki-Programowania)
+- [Podstawy przetwarzania sygnałów - laboratoria](https://github.com/Ite-2022-pwr/Podstawy-przetwarzania-sygnalow)
