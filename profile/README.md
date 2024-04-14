@@ -1,6 +1,6 @@
 # ITE 2022 organizacja na githubie
 
-Rozwiązania zadań laboratoryjnych z wybranych przedmiotów, które mieliśmy na studiach
+Rozwiązania zadań laboratoryjnych i projektowych z wybranych przedmiotów, które mieliśmy na studiach.
 
 ## naming scheme
 
@@ -12,12 +12,16 @@ np.: `sem3-jp-lab03-ak`
 
 Można też dawać opis repozytorium
 
-## formatowanie kodu
-co do formatowania, to w sumie można ujednolicić, to żeby to zrobić dodajcie se plugin:
+## Formatowanie kodu
+Co do formatowania, to w sumie można ujednolicić, to żeby to zrobić dodajcie se plugin:
 https://plugins.jetbrains.com/plugin/8527-google-java-format
 żeby było tak samo
 
 ## Timeline
+
+### Semestr 1
+
+- [Podstawy programowania - laboratoria](https://github.com/Ite-2022-pwr/Podstawy_programowania)
 
 ### Semestr 2
 
