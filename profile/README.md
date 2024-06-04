@@ -1,21 +1,20 @@
-# ITE 2022 organizacja na githubie
+# ITE 2022, Politechnika Wrocławska, studia inżynierskie
 
 Rozwiązania zadań laboratoryjnych i projektowych z wybranych przedmiotów, które mieliśmy na studiach.
 
-## naming scheme
+## Sposób nazywania repozytoriów
 
-Warto nazywać repozytoria tak, aby dało się łatwo domyślić do czego to był program
+Repozytoria, aby dało się stosunkowo łatwo domyślić, do czego to był program, są nazywane wg następującego schematu:
 
 `sem<nr semestru>-<skrótowa nazwa przedmiotu>-<nazwa (np. wymagana przez prowadzącego)>-inicjały`
 
-np.: `sem3-jp-lab03-ak`
-
-Można też dawać opis repozytorium
+np.: `sem3-jp-lab03-ak`, `sem4-aizo-proj1-mb`
 
 ## Formatowanie kodu
-Co do formatowania, to w sumie można ujednolicić, to żeby to zrobić dodajcie se plugin:
-https://plugins.jetbrains.com/plugin/8527-google-java-format
-żeby było tak samo
+
+Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują kod, aby było *ładnie*:
+- Java - https://plugins.jetbrains.com/plugin/8527-google-java-format
+- Python - https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter
 
 ## Timeline
 
@@ -31,3 +30,7 @@ https://plugins.jetbrains.com/plugin/8527-google-java-format
 
 - [Języki programowania (Java) - laboratoria](https://github.com/Ite-2022-pwr/Jezyki-Programowania)
 - [Podstawy przetwarzania sygnałów - laboratoria](https://github.com/Ite-2022-pwr/Podstawy-przetwarzania-sygnalow)
+
+### Semestr 4
+
+- [Bazy danych 1 - laboratoria](https://github.com/Ite-2022-pwr/sem4-bd1-lab-ak)
