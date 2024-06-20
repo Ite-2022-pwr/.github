@@ -1,5 +1,7 @@
 # ITE 2022, Politechnika Wrocławska, studia inżynierskie
 
+# *20.06.2024 15:58 OKRĄGŁE 50 REPO*
+
 Rozwiązania zadań laboratoryjnych i projektowych z wybranych przedmiotów, które mieliśmy na studiach.
 
 ## Sposób nazywania repozytoriów
