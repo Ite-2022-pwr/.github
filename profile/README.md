@@ -35,4 +35,7 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 
 ### Semestr 4
 
-- [Bazy danych 1 - laboratoria](https://github.com/Ite-2022-pwr/sem4-bd1-lab-ak)
+- [Bazy danych 1 - laboratoria](https://github.com/Ite-2022-pwr/Bazy-danych-1)
+- [Niezawodność i diagnostyka układów cyfrowych 2 - projekty](https://github.com/Ite-2022-pwr/NIDUC2)
+- [Algorytmy i złożoność obliczeniowa - projekty](https://github.com/Ite-2022-pwr/AiZO)
+- [Organizacja i architektura komputerów - laboratoria i projekty](https://github.com/Ite-2022-pwr/OiAK)
