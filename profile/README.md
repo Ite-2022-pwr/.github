@@ -1,7 +1,5 @@
 # ITE 2022, Politechnika Wrocławska, studia inżynierskie
 
-# *20.06.2024 15:58 OKRĄGŁE 50 REPO*
-
 Rozwiązania zadań laboratoryjnych i projektowych z wybranych przedmiotów, które mieliśmy na studiach.
 
 ## Sposób nazywania repozytoriów
@@ -20,22 +18,27 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 
 ## Timeline
 
-### Semestr 1
+### [Semestr 1](https://github.com/Ite-2022-pwr/ITE-IS-Semestr-1)
 
 - [Podstawy programowania - laboratoria](https://github.com/Ite-2022-pwr/Podstawy_programowania)
 
-### Semestr 2
+### [Semestr 2](https://github.com/Ite-2022-pwr/ITE-IS-Semestr-2)
 
 - [Programowanie obiektowe - laboratoria](https://github.com/Ite-2022-pwr/Programowanie-obiektowe)
 
-### Semestr 3
+### [Semestr 3](https://github.com/Ite-2022-pwr/ITE-IS-Semestr-3)
 
 - [Języki programowania (Java) - laboratoria](https://github.com/Ite-2022-pwr/Jezyki-Programowania)
 - [Podstawy przetwarzania sygnałów - laboratoria](https://github.com/Ite-2022-pwr/Podstawy-przetwarzania-sygnalow)
 
-### Semestr 4
+### [Semestr 4](https://github.com/Ite-2022-pwr/ITE-IS-Semestr-4)
 
 - [Bazy danych 1 - laboratoria](https://github.com/Ite-2022-pwr/Bazy-danych-1)
 - [Niezawodność i diagnostyka układów cyfrowych 2 - projekty](https://github.com/Ite-2022-pwr/NIDUC2)
 - [Algorytmy i złożoność obliczeniowa - projekty](https://github.com/Ite-2022-pwr/AiZO)
 - [Organizacja i architektura komputerów - laboratoria i projekty](https://github.com/Ite-2022-pwr/OiAK)
+
+## Również przydatne
+
+- [kod źródłowy LUC Ultimate Edition](https://github.com/Ite-2022-pwr/luc-ultimate)
+- [Sieci komputerowe - notatki](https://github.com/Ite-2022-pwr/Sieci-komputerowe-notatki)
