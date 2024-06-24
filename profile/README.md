@@ -36,7 +36,7 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 - [Bazy danych 1 - laboratoria](https://github.com/Ite-2022-pwr/Bazy-danych-1)
 - [Niezawodność i diagnostyka układów cyfrowych 2 - projekty](https://github.com/Ite-2022-pwr/NIDUC2)
 - [Algorytmy i złożoność obliczeniowa - projekty](https://github.com/Ite-2022-pwr/AiZO)
-- [Podstawy techniki mikroprocesorowej 1](https://github.com/Ite-2022-pwr/PTM1)
+- [Podstawy techniki mikroprocesorowej 1 - laboratoria](https://github.com/Ite-2022-pwr/PTM1)
 - [Organizacja i architektura komputerów - laboratoria i projekty](https://github.com/Ite-2022-pwr/OiAK)
 
 ## Również przydatne
