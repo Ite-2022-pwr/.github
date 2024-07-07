@@ -44,3 +44,4 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 - [kod źródłowy LUC Ultimate Edition](https://github.com/Ite-2022-pwr/luc-ultimate)
 - [Zrozumieć asemblera tutorial](https://github.com/Ite-2022-pwr/x86_Assembly_101) - **IN PROGRESS**
 - [Sieci komputerowe - notatki](https://github.com/Ite-2022-pwr/Sieci-komputerowe-notatki)
+- [Notatki ze wskaźników](https://github.com/Ite-2022-pwr/Wskazniki)
