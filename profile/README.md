@@ -38,6 +38,7 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 - [Algorytmy i złożoność obliczeniowa - projekty](https://github.com/Ite-2022-pwr/AiZO)
 - [Podstawy techniki mikroprocesorowej 1 - laboratoria](https://github.com/Ite-2022-pwr/PTM1)
 - [Organizacja i architektura komputerów - laboratoria i projekty](https://github.com/Ite-2022-pwr/OiAK)
+- [Wprowadzenie do wysokowydajnych komputerów - laboratoria](https://github.com/Ite-2022-pwr/WdWK)
 
 ## Również przydatne
 
