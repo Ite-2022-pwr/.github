@@ -44,6 +44,7 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 
 - [Projektowanie efektywnych algorytmów - projekty](https://github.com/Ite-2022-pwr/PEA)
 - [Grafika komputerowa i komunikacja człowiek komputer - laboratoria](https://github.com/Ite-2022-pwr/Grafika)
+- [Bazy danych 2 - projekty](https://github.com/Ite-2022-pwr/Bazy-danych-2)
 
 ## Również przydatne
 
