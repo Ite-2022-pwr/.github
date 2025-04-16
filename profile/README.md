@@ -45,6 +45,7 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 - [Projektowanie efektywnych algorytmów - projekty](https://github.com/Ite-2022-pwr/PEA)
 - [Grafika komputerowa i komunikacja człowiek komputer - laboratoria](https://github.com/Ite-2022-pwr/Grafika)
 - [Bazy danych 2 - projekty](https://github.com/Ite-2022-pwr/Bazy-danych-2)
+- [Układy cyfrowe i systemy wbudowane 1 - laboratoria](https://github.com/Ite-2022-pwr/UCISW1)
 
 ## Również przydatne
 
@@ -52,4 +53,6 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 - [Zrozumieć asemblera tutorial](https://github.com/Ite-2022-pwr/x86_Assembly_101) - **IN PROGRESS**
 - [Sieci komputerowe - notatki](https://github.com/Ite-2022-pwr/Sieci-komputerowe-notatki)
 - [Notatki ze wskaźników](https://github.com/Ite-2022-pwr/Wskazniki)
+- [Pytania i odpowiedzi na egzamin dyplomowy (specjalność IGM) od Docenta](https://github.com/DocentSzachista/ITE-exam-questions)
 - [Organizacja ITE 23](https://github.com/ITE-2023-2028)
+- [Organizacja ITE 24](https://github.com/ITE-2024-PWR)
