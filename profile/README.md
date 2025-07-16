@@ -46,16 +46,17 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 - [Grafika komputerowa i komunikacja człowiek komputer - laboratoria](https://github.com/Ite-2022-pwr/Grafika)
 - [Bazy danych 2 - projekty](https://github.com/Ite-2022-pwr/Bazy-danych-2)
 - [Układy cyfrowe i systemy wbudowane 1 - laboratoria](https://github.com/Ite-2022-pwr/UCISW1)
+- [Urządzenia peryferyjme - laboratoria](https://github.com/Ite-2022-pwr/Urzadzenia-peryferyjne)
 
 ### [Semestr 6](https://github.com/Ite-2022-pwr/ITE-IS-Semestr-6)
 
-- [Układy cyfrowe i systemy wbudowane 2 - projekt](https://github.com/Ite-2022-pwr/UCISW2)
+- [Układy cyfrowe i systemy wbudowane 2 - projekty](https://github.com/Ite-2022-pwr/UCISW2)
 - [Systemy operacyjne 2 - laboratoria i projekty](https://github.com/Ite-2022-pwr/Systemy-operacyjne-2)
 - [Sztuczna inteligencja - ćwiczenia (kody w języku Prolog)](https://github.com/Ite-2022-pwr/sem6-si-cw-list4-ak)
 
 #### Systemy i sieci komputerowe
 
-- [Projektowanie usług internetowych - projekt](https://github.com/Ite-2022-pwr/PUI)
+- [Projektowanie usług internetowych - projekty](https://github.com/Ite-2022-pwr/PUI)
 
 #### Inżynieria systemów informatycznych
 
