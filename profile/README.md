@@ -54,6 +54,11 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 - [Systemy operacyjne 2 - laboratoria i projekty](https://github.com/Ite-2022-pwr/Systemy-operacyjne-2)
 - [Sztuczna inteligencja - ćwiczenia (kody w języku Prolog)](https://github.com/Ite-2022-pwr/sem6-si-cw-list4-ak)
 
+#### Grafika i systemy multimedialne
+
+- [Inżynieria obrazów - laboratoria](https://github.com/Ite-2022-pwr/IOb)
+- [Projektowanie i programowanie gier - laboratoria](https://github.com/Ite-2022-pwr/PiPG)
+
 #### Systemy i sieci komputerowe
 
 - [Projektowanie usług internetowych - projekty](https://github.com/Ite-2022-pwr/PUI)
