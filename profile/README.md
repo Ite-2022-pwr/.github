@@ -71,7 +71,7 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 
 #### Systemy i sieci komputerowe
 
-- [Projektowanie gier komputerowych 2](https://github.com/Ite-2022-pwr/PGK2)
+- [Projektowanie gier komputerowych 2 - laboratoria](https://github.com/Ite-2022-pwr/PGK2)
 
 ## Również przydatne
 
