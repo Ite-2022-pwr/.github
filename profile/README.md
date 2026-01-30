@@ -67,6 +67,12 @@ Co do formatowania, warto dodać do swojego IDE pluginy, które same formatują 
 
 - [Administrowanie sieciowymi systemami operacyjnymi - laboratoria](https://github.com/Ite-2022-pwr/ASSO)
 
+### [Semestr 7](https://github.com/Ite-2022-pwr/ITE-IS-Semestr-7)
+
+#### Systemy i sieci komputerowe
+
+- [Projektowanie gier komputerowych 2](https://github.com/Ite-2022-pwr/PGK2)
+
 ## Również przydatne
 
 - [kod źródłowy LUC Ultimate Edition](https://github.com/Ite-2022-pwr/luc-ultimate)
